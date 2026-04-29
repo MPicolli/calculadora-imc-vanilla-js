@@ -1,5 +1,7 @@
 # 🧮 Calculadora de IMC - Vanilla JS
 
+🔗 **[Acesse o projeto aqui](https://seu-usuario.github.io/calculadora-imc-vanilla-js/)**
+
 Este é um projeto de uma calculadora de Índice de Massa Corporal (IMC) desenvolvido com tecnologias fundamentais da web. O objetivo foi aplicar conceitos de manipulação do DOM e lógica de programação com JavaScript puro.
 
 ## 🚀 Tecnologias Utilizadas
